@@ -1,10 +1,11 @@
-## Pasos que segui (y para repetirlos si hace falta):
+## Pasos que seguí (por si hace falta repetirlos)
 
-- Cree package.json con el script test y la dependencia vitest.
-- Instale dependencias con npm install.
-- Cree los tests en parseDateFromString.test.js usando vitest y expect.
-- Exporte parseDateFromString desde javascript.js para poder usarla en los tests.
+- Creé el `package.json` con el script `test` y la dependencia `vitest`.
+- Instalé las dependencias con `npm install`.
+- Creé los tests en `parseDateFromString.test.js` usando `vitest` y `expect`.
+- Exporté `parseDateFromString` desde `javascript.js` para poder usarla en los tests.
 
-## Para correrlos:
+## Cómo ejecutarlos
 
-npm test  
+```bash
+npm test
